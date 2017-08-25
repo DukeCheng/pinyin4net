@@ -23,7 +23,6 @@
 
 using System;
 using NUnit.Framework;
-using Pinyin4net;
 using Pinyin4net.Format;
 using Pinyin4net.Exceptions;
 
